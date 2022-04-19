@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An exhibit of Markdown
+title: Artículo de prueba
 subtitle: Each post also has a subtitle
 categories: markdown
 tags: [example, markdown]
